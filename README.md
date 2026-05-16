@@ -43,9 +43,6 @@ This project builds a **binary ML classifier** that predicts whether a patient h
 > 🔗 **https://heart-disease-prediction-3ycj5odppblq8pchewpxv4.streamlit.app/**
 
 Enter patient parameters in the interactive sidebar and get a real-time cardiac risk prediction.
-<img width="1600" height="960" alt="WhatsApp Image 2026-05-16 at 23 19 47" src="https://github.com/user-attachments/assets/63559e06-1f8f-4d8b-8ec6-f68744a86ff8" />
-
-<img width="1600" height="948" alt="WhatsApp Image 2026-05-16 at 23 20 32" src="https://github.com/user-attachments/assets/45bcfd77-7d86-4ec1-8fa7-7600130cf4b2" />
 
 
 
